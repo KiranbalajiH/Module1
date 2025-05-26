@@ -19,7 +19,6 @@ if(num%2==0):
 else:
     print("Odd")
 ```
-
 ## Output
 ![image](https://github.com/user-attachments/assets/6362c3da-8ebc-4e5f-937c-f99da3a0c7c7)
 
